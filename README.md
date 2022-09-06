@@ -1,6 +1,7 @@
-# Data-pipeline-Pyspark
+# Introduction
 
-This repository is to build a data pipeline using PySpark. The original is data is about 
+This repository is to build a data pipeline using PySpark. The data source is an e-commerce dataset stored in a json file. The aim of this project is build a spark pipeline that transforms data so that it could be directly loaded into the target dataset
+without any other changes.
 
 
 ## Pre-processing
